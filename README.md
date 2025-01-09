@@ -14,3 +14,5 @@ I suggest using a joystick with D-PAD since it's auto configurated.
 Beware that you need the Allegro 5 runtime to run it in linux.
 
 ![Captura de pantalla 2024-08-18 174655](https://github.com/user-attachments/assets/af1c9da9-a2e8-4270-92ff-bdfac8964ab9)
+
+Lucas Dalmasso 2024/2025
