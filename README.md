@@ -12,7 +12,7 @@ I suggest using a joystick with D-PAD since it's auto configurated.
 
 Badnes 1.77: fixed apu bugs.
 * [Badnes 1.77 Win x64.zip](https://github.com/user-attachments/files/18465834/Badnes.1.77.Win.x64.zip)
-* [Badnes 1.77 Linux x64.zip](https://github.com/user-attachments/files/18465843/Badnes.1.77.Linux.x64.zip)
+* [Badnes 1.77 Linux x64.zip](https://github.com/user-attachments/files/18465870/Badnes.1.77.Linux.x64.zip)
 
 ------------------------------------------------------------------------
 
