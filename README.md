@@ -1,8 +1,6 @@
 # Badnes-Emulator
 A free nintendo Emulator for Windows and Linux
 
-![smb3](https://github.com/user-attachments/assets/5025f030-6f71-4f88-9279-703ca16d406d)
-
 Default keys are: 
 * z:  B
 * x:  A
@@ -11,6 +9,9 @@ Default keys are:
 
 This behavior can be changed selecting the joystick plugged in the menu.
 I suggest using a joystick with D-PAD since it's auto configurated.
+
+Badnes 1.80: Fixed apu and ppu bugs. Also fixed savestates issues.
+* 
 
 Badnes 1.77: fixed apu bugs.
 * [Badnes 1.77 Win x64.zip](https://github.com/user-attachments/files/18465912/Badnes.1.77.Win.x64.zip)
@@ -21,5 +22,7 @@ Badnes 1.77: fixed apu bugs.
 * [Badnes 1.75 Win x64.zip](https://github.com/user-attachments/files/18365400/Badnes.1.75.Win.x64.zip)
 * [Badnes 1.75 Linux x64.zip](https://github.com/user-attachments/files/18365594/Badnes.1.75.Linux.x64.zip) 
 Beware that you need the Allegro 5 runtime to run it in linux.
+
+![smb3](https://github.com/user-attachments/assets/5025f030-6f71-4f88-9279-703ca16d406d)
 
 Lucas Dalmasso 2024/2025
