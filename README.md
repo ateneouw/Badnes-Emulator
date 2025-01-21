@@ -1,6 +1,8 @@
 # Badnes-Emulator
 A free nintendo Emulator for Windows and Linux
 
+Badnes for Linux needs the Allegro 5 lib.
+
 Default keys are: 
 * z:  B
 * x:  A
