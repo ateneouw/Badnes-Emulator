@@ -12,6 +12,10 @@ Default keys are:
 This behavior can be changed selecting the joystick plugged in the menu.
 I suggest using a joystick with D-PAD since it's auto configurated.
 
+Badnes 1.85: Added full screen mode. Changed a12 detection.
+* [Badnes 1.85 Win x64.zip](https://github.com/user-attachments/files/18804139/Badnes.1.85.Win.x64.zip)
+* [Badnes 1.85 Linux x64.zip](https://github.com/user-attachments/files/18804134/Badnes.1.85.Linux.x64.zip)
+------------------------------------------------------------------------
 Badnes 1.80: Fixed apu and ppu bugs. Also fixed savestates issues.
 * [Badnes 1.80 Win x64.zip](https://github.com/user-attachments/files/18496911/Badnes.1.80.Win.x64.zip)
 * [Badnes 1.80 Linux x64.zip](https://github.com/user-attachments/files/18497017/Badnes.1.80.Linux.x64.zip)
