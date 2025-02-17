@@ -3,14 +3,14 @@ A free nintendo Emulator for Windows and Linux
 
 Badnes for Linux needs the Allegro 5 lib.
 
-Default keys are: 
-* z:  B
-* x:  A
-* a:  SELECT
-* s:  Start
+Badnes 1.90: Fixed full screen mode issues. Added the capability of selecting gfx engines.
+              Fixed sound issues. No rom in /roms dir now works fine.
+              Allegro 5 now is statically linked, so it should work without the Allegro libs. I haven't 
+              tested it.
+* [Badnes 1.90 Win x64.zip](https://github.com/user-attachments/files/18832522/Badnes.1.90.Win.x64.zip)
+* [Badnes 1.90 Linux x64.zip](https://github.com/user-attachments/files/18832527/Badnes.1.90.Linux.x64.zip)
 
-This behavior can be changed selecting the joystick plugged in the menu.
-I suggest using a joystick with D-PAD since it's auto configurated.
+02/17/25
 
 Badnes 1.85: Added full screen mode. Changed a12 detection.
 * [Badnes 1.85 Win x64.zip](https://github.com/user-attachments/files/18804139/Badnes.1.85.Win.x64.zip)
