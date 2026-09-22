@@ -16,6 +16,8 @@ Mapper Support:
 Download Windows x64:
 [Badnes3.0.zip](https://github.com/user-attachments/files/32526914/Badnes3.0.zip)
 
+Image display: HQX, NTSC or no effects.
+Sound: nes like sound
 
-Badnes 3.0 - Initial Release (beta)
+Badnes 3.0 - Initial Release
 Lucas Dalmasso
