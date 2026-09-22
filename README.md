@@ -1,7 +1,10 @@
-# Badnes-Emulator
-A free nintendo Emulator for Windows and Linux meant to play
+# Badnes 3 - Emulator
+A free nintendo Emulator for Windows meant to play
+
+<img width="570" height="473" alt="Captura de pantalla 2026-09-22 130833" src="https://github.com/user-attachments/assets/b26c0f1d-fff2-42e2-9a4a-d32b2490aa6d" />
 
 Mapper Support:
+
 - Mapper 0 (no mapper)
 - UxRom
 - Cnrom
@@ -10,6 +13,9 @@ Mapper Support:
 - Mmc2
 - Mmc3
 
-Default keys are
-Badnes 0.1 - Initial Release (beta)
+Download Windows x64:
+[Badnes3.0.zip](https://github.com/user-attachments/files/32526914/Badnes3.0.zip)
 
+
+Badnes 3.0 - Initial Release (beta)
+Lucas Dalmasso
