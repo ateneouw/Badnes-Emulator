@@ -18,6 +18,8 @@ Download Windows x64:
 
 Image display: HQX, NTSC or no effects.
 Sound: nes like sound
+GUI: Rom list
+GUI: Search rom
 
 Badnes 3.0 - Initial Release
 Lucas Dalmasso
